@@ -9,7 +9,7 @@ consumer-facing mobile applications, internal tooling, and resilient backend ser
 
 ### 🛠️ Technical Skills / Interests
 
-- **Languages:** Golang, Javascript, Node.js, Terraform, Python, Swift
+- **Languages:** Golang, Javascript/Typescript, Node.js, Terraform, Python, Swift
 - **Cloud & Infrastructure:** AWS, GCP, DigitalOcean
 - **DevOps & Monitoring:** Github Actions, Datadog, Dynatrace, PagerDuty, OpsGenie, Terraform Cloud
 - **Special Tech Interests:** Kubernetes, Serverless Infrastructure, Mono Repos, Developer Tooling, Monitoring as Code, Infrastructure as Code, Configuration and Secret Management, Feature Flagging
