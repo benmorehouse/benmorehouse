@@ -13,7 +13,7 @@ consumer-facing mobile applications, internal tooling, and resilient backend ser
 - **Cloud & Infrastructure:** AWS, GCP, DigitalOcean
 - **DevOps & Monitoring:** Github Actions, Datadog, Dynatrace, PagerDuty, OpsGenie, Terraform Cloud
 - **Special Tech Interests:** Kubernetes, Serverless Infrastructure, Mono Repos, Developer Tooling, Monitoring as Code, Infrastructure as Code, Configuration and Secret Management, Feature Flagging
-- **Special Non-Tech Interests:** Language Learning, Financial Technology, Nutrition, Travel, Surfing
+- **Special Non-Tech Interests:** Language Learning, Financial Literacy, Nutrition, Travel, Surfing, Snowboarding, Climbing
 
 ### 📜 My Experience
 - **[Extra](https://www.extra.app/)** - Platform Engineer *(current)*
