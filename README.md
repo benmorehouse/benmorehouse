@@ -16,7 +16,7 @@ consumer-facing mobile applications, internal tooling, and resilient backend ser
 - **Special Non-Tech Interests:** Language Learning, Financial Literacy, Nutrition, Travel, Surfing, Snowboarding, Climbing
 
 ### 📜 My Experience
-- **[Extra](https://www.extra.app/)** - Platform Engineer *(current)*
+- **[Extra](https://www.extra.app/)** - Senior Software Engineer *(current)*
 - **[Altro](https://www.altro.io/)** - First & Lead Platform engineer
 - **[Tesla](https://www.tesla.com/)** - Software and Site Reliability Engineer
 - **Ojai** - Founding Software Engineer
