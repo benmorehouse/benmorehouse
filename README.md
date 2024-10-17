@@ -14,6 +14,7 @@ consumer-facing mobile applications, internal tooling, and resilient backend ser
 - **DevOps & Monitoring:** Github Actions, Datadog, Dynatrace, PagerDuty, OpsGenie, Terraform Cloud
 - **Special Tech Interests:** Kubernetes, Serverless Infrastructure, Mono Repos, Developer Tooling, Monitoring as Code, Infrastructure as Code, Configuration and Secret Management, Feature Flagging
 - **Special Non-Tech Interests:** Language Learning, Financial Literacy, Nutrition, Travel, Surfing, Snowboarding, Climbing
+- **Subscribe to my writings!** https://awokenquestion.substack.com/
 
 ### 📜 My Experience
 - **[Extra](https://www.extra.app/)** - Senior Software Engineer *(current)*
