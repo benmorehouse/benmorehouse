@@ -17,7 +17,7 @@ consumer-facing mobile applications, internal tooling, and resilient backend ser
 - **Subscribe to my writings!** https://escapingtorpor.substack.com/
 
 ### 📜 My Experience
-- **[Extra](https://www.extra.app/)** - Senior Software Engineer *(current)*
+- **[Extra](https://www.extra.app/)** - Senior Software Engineer *(acquired)*
 - **[Altro](https://www.altro.io/)** - First & Lead Platform engineer
 - **[Tesla](https://www.tesla.com/)** - Software and Site Reliability Engineer
 - **Ojai** - Founding Software Engineer
